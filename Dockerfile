@@ -1,4 +1,4 @@
-FROM deeson/fe-php:7.1
+FROM deeson/fe-php:7.2
 
 # Core tools
 RUN apk --no-cache add \
