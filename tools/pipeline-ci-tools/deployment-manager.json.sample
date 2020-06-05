@@ -1,0 +1,15 @@
+{
+  "blacklist": [
+    "^feature/.*"
+  ],
+  "whitelist": [
+    "master",
+    "develop"
+  ],
+  "map": [
+    {
+      "src": "develop",
+      "target": "dev"
+    }
+  ]
+}
